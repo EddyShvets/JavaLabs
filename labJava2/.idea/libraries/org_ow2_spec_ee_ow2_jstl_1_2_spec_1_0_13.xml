@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.ow2.spec.ee:ow2-jstl-1.2-spec:1.0.13" type="repository">
+    <properties maven-id="org.ow2.spec.ee:ow2-jstl-1.2-spec:1.0.13" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/spec/ee/ow2-jstl-1.2-spec/1.0.13/ow2-jstl-1.2-spec-1.0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/jsp/jstl/javax.servlet.jsp.jstl-api/1.2.1/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/web/javax.servlet.jsp.jstl/1.2.2/javax.servlet.jsp.jstl-1.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/spec/ee/ow2-jsp-2.2-spec/1.0.13/ow2-jsp-2.2-spec-1.0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/spec/ee/ow2-servlet-3.0-spec/1.0.13/ow2-servlet-3.0-spec-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

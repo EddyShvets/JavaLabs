@@ -1,0 +1,46 @@
+.myClass {
+    display: inline-block;
+    background: #d9f63b;
+    margin: 40px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+}
+
+.myAnotherClass {
+    background-color: #c9e6ee;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 320px;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.buttonInsertToDB {
+    display: inline-block;
+    background: #f60100;
+    margin: 40px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+}
+
+.myTable td {
+    border: solid 1px black;
+    width: 600px;
+}
+
+.myTable {
+    border-collapse: collapse;
+}
+
+.errorMessage {
+    color: #f60100;
+}

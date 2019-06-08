@@ -1,0 +1,42 @@
+.myTable2 {
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #191919;
+    border: 16px solid #191919;
+    border-radius: 20px;
+    position: absolute;
+}
+
+.myTable2 th {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.myTable2 h1 {
+    text-align: center;
+}
+
+
+.myTable2 th {
+    background: #2ecc71;
+    color: white;
+    padding: 10px 20px;
+}
+
+.myTable2 td:first-child {
+    background: #2ecc71;
+    color: white;
+    padding: 10px 20px;
+}
+
+
+
+.myTable2 td {
+    background: #b0f3a1;
+}
+
+.myTable2 td:first-child, th:first-child {
+    text-align: left;
+}
